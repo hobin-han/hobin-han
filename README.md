@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **hobin-han/hobin-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+## My tech stack 📚
+
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge\&logo=xcode\&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white) ![Objective-C](https://img.shields.io/badge/-Objective--C-1575F9?style=for-the-badge\&logo=apple\&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=for-the-badge\&logo=swift\&logoColor=white) ![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=for-the-badge\&logo=apple\&logoColor=white) ![Combine](https://img.shields.io/badge/-Combine-31C4F3?style=for-the-badge\&logo=swift\&logoColor=white) ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=for-the-badge\&logo=cocoapods\&logoColor=white) ![SPM](https://img.shields.io/badge/-Swift%20Package%20Manager-FA7343?style=for-the-badge\&logo=swift\&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black) ![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?style=for-the-badge\&logo=fastlane\&logoColor=white)
+![XCTest](https://img.shields.io/badge/-XCTest-1575F9?style=for-the-badge\&logo=apple\&logoColor=white)
+![Alamofire](https://img.shields.io/badge/-Alamofire-FF5A5F?style=for-the-badge\&logo=swift\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 -->
